@@ -1,5 +1,5 @@
-#ifndef MORTIFIED_OPENGL_HPP
-#define MORTIFIED_OPENGL_HPP
+#ifndef RIGL_OPENGL_HPP
+#define RIGL_OPENGL_HPP
 
 #if __APPLE__
 #include "TargetConditionals.h"
